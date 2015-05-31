@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "TDC2014 - Trilhas"
+date:   2014-04-12 13:00:00
+categories: Blog
+---
+
+<h3>Tilhas e Palestrantes</h3>
+Foi divulgado os palestrates para as trilhas do <a href="http://www.thedevelopersconference.com.br" target="blank">TDC2014</a>.
+
+<img src="/img/posts/tdctrilhas2014.png" />
+
+Confira, ainda da tempo de comprar o seu ingresso.
+
+<h3>Posts relacionados</h3>
+* <a href="../../../2014/04/01/promocao-tdc-2014.html" target="blank">Novidades</a>.
+* <a href="../../../2014/03/17/the-developers-conference.html" target="blank">Evento</a>.
+
+Qualquer dúvida, chama aí no <a href="https://twitter.com/realronchi" target="blank">Twitter</a>!
