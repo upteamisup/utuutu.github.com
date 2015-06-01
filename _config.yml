@@ -1,0 +1,11 @@
+name: Baseball - Blog
+markdown: redcarpet
+pygments: true
+name: upteamisup
+url: http://upteamisup.com
+domain: upteamisup.com
+author :
+  name : upteamisup
+  email : wjddkkl@koreatech.ac.kr
+  github : https://github.com/upteamisup
+  linkedin : http://br.linkedin.com/in/realronchi
